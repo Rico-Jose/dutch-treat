@@ -52,3 +52,5 @@ C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\DutchTrea
 C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\DutchTreat.dll
 C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\DutchTreat.pdb
 C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
+C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rico PC\Documents\Angular\dutch-treat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
