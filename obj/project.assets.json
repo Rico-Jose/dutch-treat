@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rico PC\\Documents\\C#\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "C:\\Users\\Rico PC\\Documents\\Angular\\dutch-treat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\Users\\Rico PC\\Documents\\C#\\DutchTreat\\DutchTreat.csproj",
+      "projectPath": "C:\\Users\\Rico PC\\Documents\\Angular\\dutch-treat\\DutchTreat.csproj",
       "packagesPath": "C:\\Users\\Rico PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rico PC\\Documents\\C#\\DutchTreat\\obj\\",
+      "outputPath": "C:\\Users\\Rico PC\\Documents\\Angular\\dutch-treat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

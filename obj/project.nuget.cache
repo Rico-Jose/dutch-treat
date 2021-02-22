@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrvMaW4CK1hbNTif45Jz8BrKocopjZHFd+MvA4sokL6Ny+n/KFIbOKmU84o6cFRiZBdyq/6rvfrVo3HSuzWYyg==",
+  "dgSpecHash": "V5VeSHoE9Ldg4L57DRuUSQ14Z5+Byvr4WvT7uoCV6X2F0UAVBS/ggvVjK59wNmDmgwPmU9dPpOnoCU1QMTwQkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rico PC\\Documents\\C#\\DutchTreat\\DutchTreat.csproj",
+  "projectFilePath": "C:\\Users\\Rico PC\\Documents\\Angular\\dutch-treat\\DutchTreat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rico PC\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
   ],
