@@ -11,14 +11,14 @@ namespace DutchTreat.ViewModels
     {
         [Required]
         [MinLength(5)]
-        public int Name { get; set; }
+        public string Name { get; set; }
         [Required]
         [EmailAddress]
-        public int Email { get; set; }
+        public string Email { get; set; }
         [Required]
-        public int Subject { get; set; }
+        public string Subject { get; set; }
         [Required]
         [MaxLength(250, ErrorMessage = "Too Long")]
-        public int Message { get; set; }
+        public string Message { get; set; }
     }
 }
