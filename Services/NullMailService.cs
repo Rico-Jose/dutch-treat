@@ -13,7 +13,6 @@ namespace DutchTreat.Services
         {
             //Log Message
             _logger.LogInformation($"To: {to} Subject: {subject} Body: {body}");
-
         }
     }
 }
