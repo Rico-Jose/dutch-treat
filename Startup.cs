@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using DutchTreat.Data;
 using DutchTreat.Services;
@@ -34,13 +35,21 @@ namespace DutchTreat
 
             services.AddTransient<DutchSeeder>();
 
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
             services.AddScoped<IDutchRepository, DutchRepository>();
 
             services.AddTransient<IMailService, NullMailService>();
             // Support for real mail service
 
+            services.AddControllersWithViews();
+
+
+            /*
             services.AddMvc()
                 .AddJsonOptions(opt => opt.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
+            */
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
